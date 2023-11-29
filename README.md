@@ -52,7 +52,7 @@ git reset --hard @~
 git branch Otchet
 ```
 ### 11. Оформление отчета в файле README.md
-### 12. Получение истории операций в форматированном виде. ([См. рис. 7](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-log%20-v.png))
+### 12. Получение истории операций в форматированном виде. ([См. рис. 7](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-log%20--pretty.png))
 
 
 ## <b>Лог команд:</b>
@@ -75,8 +75,8 @@ git branch Otchet
     ![](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-branch%20-d.png?raw=true)
 11. git reset --hard - откат коммита <br>
     ![](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-reset%20--hard.png?raw=true)
-12. git log -v - просмотр автора и времени изменений <br>
-    ![](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-log%20-v.png?raw=true)
+12. git log -pretty - просмотр автора и времени изменений <br>
+    ![](https://github.com/kikitoooo/LR6/blob/Otchet/photo/git-log%20--pretty.png)
 
 ## Вывод
 В ходе работы были изучены базовые возможности системы
